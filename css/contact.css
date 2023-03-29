@@ -1,0 +1,5 @@
+body {
+    background: -webkit-linear-gradient(to right, #004e92, #000428);
+    background: linear-gradient(to right, #004e92, #000428);
+    background: radial-gradient(ellipse at center, #004e92 10%, #000428 94%);
+}
